@@ -2,6 +2,7 @@
 
 ![2](https://github.com/user-attachments/assets/2ec7b4fe-fdc7-42cd-9b5b-f9d51fcf4ab1)
 ![1](https://github.com/user-attachments/assets/98b8283b-b254-4a29-b46b-0316c47eb525)
+![pic3](https://github.com/user-attachments/assets/9a597448-5d1e-41ad-b816-0cac5ae32a91)
 
 # Boss Kill Times (Weedsmokers Edition)
 
