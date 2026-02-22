@@ -40,7 +40,7 @@ WoW addons cannot read live websites while the game is open. If you want to fetc
 The script needs a background browser to bypass Warmane's bot protection.
 1. In the same Command Prompt window, copy and paste this command and press Enter:
    `python -m playwright install` OR
-    pip install playwright
+   `pip install playwright`
 3. Wait for the progress bars to finish downloading the Chromium browser. Once done, you can close the Command Prompt window.
 
 ### Step 4: Running the Updater
