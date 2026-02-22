@@ -39,8 +39,9 @@ WoW addons cannot read live websites while the game is open. If you want to fetc
 ### Step 3: Install the Browser Engine
 The script needs a background browser to bypass Warmane's bot protection.
 1. In the same Command Prompt window, copy and paste this command and press Enter:
-   `python -m playwright install`
-2. Wait for the progress bars to finish downloading the Chromium browser. Once done, you can close the Command Prompt window.
+   `python -m playwright install` OR
+    pip install playwright
+3. Wait for the progress bars to finish downloading the Chromium browser. Once done, you can close the Command Prompt window.
 
 ### Step 4: Running the Updater
 1. Go to your WoW AddOns folder: `World of Warcraft\Interface\AddOns\BossKillTimes\`.
